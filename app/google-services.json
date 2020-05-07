@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865393946476",
+    "firebase_url": "https://pawzstorage.firebaseio.com",
+    "project_id": "pawzstorage",
+    "storage_bucket": "pawzstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865393946476:android:a7c6824efd1ae10a5a4d49",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865393946476-3o5jufej0nbc4u1m89c25sokvc782ccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgn-4MH-onsFOz2LQAsjsMCiGlgkZxkFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865393946476-3o5jufej0nbc4u1m89c25sokvc782ccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
